@@ -16,3 +16,8 @@ To compile it from source
 
 ## Example
 	see https://github.com/forthe2008/sysmb/example
+	
+	Compile the sysmb-server, run sysmb-server as a daemon in the system. 
+	Appilcation use the API privated in sysmb.go to publish/subscribe message
+	
+	
