@@ -15,3 +15,4 @@ To compile it from source
 	cd sysmb-server && go install && sysmb-server
 
 ## Example
+	see https://github.com/forthe2008/sysmb/example
